@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=a1\ b1\ c1
+comment1.target=double\ devuelveDiscriminante(double,\ double,\ double)
+comment2.params=a2\ b2
+comment2.target=double\ ecuacionUnaRaiz(double,\ double)
+comment3.params=a3\ b3\ c3
+comment3.target=double\ ecuacionDosRaiz1(double,\ double,\ double)
+comment4.params=a4\ b4\ c4
+comment4.target=double\ ecuacionDosRaiz2(double,\ double,\ double)
+numComments=5
